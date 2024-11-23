@@ -159,7 +159,7 @@ body {
   background: #542E47; /* Fondo detrás de la imagen */
 }
   
-  }
+  
 
   .card-content {
     text-align: center; /* Centra el texto */
@@ -224,4 +224,4 @@ body {
     height: 24px;
   }
  
-
+}
